@@ -1,12 +1,10 @@
 # Samuel Sabino | Software Development Engineer
 
-### *Criando e corrigindo bugs da melhor forma possível.*
-
 <br>
 
 <p> 
   Desenvolvedor em constante evolução, me esforçando sempre em ser uma pessoa melhor. <br>
-  Atualmente focado no back-end, arrisco algo no lado front-end (mas não garanto nada haha). <br>
+  Atualmente focado no back-end, arrisco algo no lado front-end. <br>
   Colecionador por hobby, amo jogos eletrônicos e puzzles no geral.
 </p>
 
@@ -20,8 +18,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" />
 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" />
-
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-a6120d?style=for-the-badge&logo=angular&logoColor=fff&labelColor=a6120d" />
 
   <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
